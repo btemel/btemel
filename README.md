@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on anomaly detection in social media networks.<br>🤝 I’m looking for help with finding a job that aligns with my skills and goals.<br>🌱 I’m currently learning hot data science-related tools.<br>
+🔭 I’m currently working on anomaly detection in social media networks.<br>🤝 I’m looking for help with finding a job that aligns with my skills and goals.<br>🌱 I am a pro on self-management and a quick learner. I am a cheerful and solution oriented person with decent
+communication skills, and I have genuine interest in hot data science topics. Hence, I enjoy what I’m doing.<br>
 
 
 ## 🌐 Socials:
